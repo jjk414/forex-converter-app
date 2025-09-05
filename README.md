@@ -1,5 +1,5 @@
 # forex-converter-app
-# 💱 Currency Converter App
+# 💱 Currency Converter Application
 
 A simple and responsive **Currency Converter Web App** built with **HTML, CSS, and JavaScript**.  
 It allows users to convert between different currencies in real-time using the [ExchangeRate API](https://exchangerate.host).
