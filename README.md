@@ -56,6 +56,6 @@ This project is licensed under the **MIT License** – free to use and modify.
 ### 👨‍💻 Author
 **Jeevan Kumar Janjanam**  
 📧 janjanamjeevankumar@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/jeevan-kumar-b5a995252/) | [GitHub](https://github.com/jjk414)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jeevan-kumar-janjanam-b5a995252/) | [GitHub](https://github.com/jjk414)  
 
 ---
